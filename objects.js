@@ -1,3 +1,3 @@
 var playlist={};
 
-playlist.best='lp'
+playlist.best='lp';
